@@ -1,0 +1,23 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Data (keep participant-level data out of the repo)
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.rds
+data/
+
+# Generated figures and outputs
+*.tiff
+*.tif
+*.png
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
